@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<restaurante>
+  <plato tipo="entrante">
+    <nombre>Jamon</nombre>
+    <ingredientes>Jamon</ingredientes>
+    <precio>5.00</precio>
+  </plato>
+
+  <plato tipo="entrante">
+    <nombre>Queso</nombre>
+    <ingredientes>Queso</ingredientes>
+    <precio>3.00</precio>
+  </plato>
+
+  <plato tipo="principal">
+    <nombre>Tortilla de patata</nombre>
+    <ingredientes> huevos </ingredientes>
+ <ingredientes> patatas </ingredientes>
+ <ingredientes> sal  </ingredientes>
+ <ingredientes> aceite </ingredientes>
+    <precio>5.00</precio>
+  </plato>
+
+  <plato tipo="principal">
+    <nombre>Paella</nombre>
+    <ingredientes> arroz </ingredientes>
+  <ingredientes> gambas </ingredientes>
+ <ingredientes> judias verdes   </ingredientes>
+ <ingredientes> conejo </ingredientes>
+ <ingredientes> alcachofas  </ingredientes>
+ <ingredientes>  calamares </ingredientes>
+    <precio>10.00</precio>
+  </plato>
+
+  <plato tipo="principal">
+    <nombre>Pizza margarita</nombre>
+    <ingredientes> salsa de tomate </ingredientes>
+ <ingredientes> harina  </ingredientes>
+ <ingredientes> mozzarella  </ingredientes>
+ <ingredientes> aceite </ingredientes>
+ <ingredientes> sal </ingredientes>
+    <precio>9.00</precio>
+  </plato>
+
+  <plato tipo="principal">
+    <nombre>Hamburguesa vegana</nombre>
+    <ingredientes> lentejas cocidas </ingredientes>
+<ingredientes> ajo </ingredientes>
+<ingredientes> pimiento rojo  </ingredientes>
+<ingredientes> cebolla </ingredientes>
+    <precio>8.00</precio>
+  </plato>
+
+  <plato tipo="principal">
+    <nombre>Ensaladilla</nombre>
+    <ingredientes> huevos </ingredientes>
+ <ingredientes> zanahorias </ingredientes>
+<ingredientes> mayonesa  </ingredientes>
+<ingredientes> aceite </ingredientes>
+    <precio>4.00</precio>
+  </plato>
+
+  <plato tipo="principal">
+    <nombre>Canelones de carne</nombre>
+    <ingredientes> canelones </ingredientes>
+  <ingredientes> ternera  </ingredientes>
+  <ingredientes> cerdo  </ingredientes>
+  <ingredientes> aceite  </ingredientes>
+  <ingredientes> sal  </ingredientes>
+  <ingredientes> pimienta  </ingredientes>
+    <precio>6.00</precio>
+  </plato>
+
+  <plato tipo="postre">
+    <nombre>Crema de chocolate</nombre>
+    <ingredientes> aguacate </ingredientes>
+<ingredientes> chocolate negro </ingredientes>
+<ingredientes> datiles </ingredientes>
+    <precio>2.00</precio>
+  </plato>
+
+  <plato tipo="postre">
+    <nombre>Fresas con chocolate</nombre>
+    <ingredientes> fresas </ingredientes>
+ <ingredientes> chocolate negro </ingredientes>
+ <ingredientes> frutos secos </ingredientes>
+    <precio>3.00</precio>
+  </plato>
+</restaurante>
