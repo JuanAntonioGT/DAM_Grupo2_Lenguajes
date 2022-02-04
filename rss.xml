@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<rss version="2.0">
+
+<channel>
+  <title>Restaurante Pikoteo</title>
+  <link>https://drive.google.com/drive/folders/1EHxQUoigjEejV7uLKdrlyghJbISMB1KQ</link>
+  <description>Pagina web del Restaurante Pikoteo</description>
+<language>es-ES</language>
+<copyright>Juan Antonio Developer All Rights Reserved.</copyright>
+<item>
+      <title>Inicio</title>
+      <link>https://drive.google.com/drive/folders/1EHxQUoigjEejV7uLKdrlyghJbISMB1KQ/index.html</link>
+      <description>Ventana Principal del Restaurante</description>
+</item>
+
+<item>
+      <title>Sobre nosotros</title>
+      <link>https://drive.google.com/drive/folders/1EHxQUoigjEejV7uLKdrlyghJbISMB1KQ/aboutus.html</link>
+      <description>Cónoce quienes somos</description>
+  </item>
+<item>
+      <title>Carta</title>
+      <link>https://drive.google.com/drive/folders/1EHxQUoigjEejV7uLKdrlyghJbISMB1KQ/menu.html</link>
+      <description>Este es nuestro menu</description>
+  </item>
+<item>
+      <title>Postres</title>
+      <link>https://drive.google.com/drive/folders/1EHxQUoigjEejV7uLKdrlyghJbISMB1KQ/postres.html</link>
+      <description>La carta de nuestros deliciosos postres</description>
+</item>
+<item>
+      <title>Eventos</title>
+      <link>https://drive.google.com/drive/folders/1EHxQUoigjEejV7uLKdrlyghJbISMB1KQ/eventos.html</link>
+      <description>Nuestros eventos musicales del mes</description>
+</item>
+
+<item>
+      <title>Contactanos</title>
+      <link>https://drive.google.com/drive/folders/1EHxQUoigjEejV7uLKdrlyghJbISMB1KQ/contacto.html</link>
+      <description>Envianos tus dudas o reservas</description>
+</item>
+
+</channel>
+
+</rss>
