@@ -1,0 +1,28 @@
+1.Sólo los postres
+//plato[@tipo='postre']
+
+2. Todos los platos que tengan un precio menor a 10 euros.
+//plato[precio<10.00]
+
+3 todos los platos que tenga como ingrediente gambas
+/restaurante/plato[ingredientes='gambas']
+
+4 El último plato de la lista.
+//plato[last()]
+
+5 Sólo el nombre de todos los platos.
+/restaurante/plato/nombre
+
+6 Sólo el nombre y el primer ingrediente de todos los platos.
+/restaurante/plato/ingredientes[1] | //nombre
+
+7 Haz 3 consultas más sobre lo que quieras. Especifica que es lo que estás consultando.
+
+-ver el precio de los platos entrante: 
+/restaurante/plato[@tipo='entrante']/precio
+
+-nombre del plato que tenga de ingredientes fresas:
+ /restaurante/plato[ingredientes='fresas']
+
+-sacar el pimer plato de la lista de postre:
+/restaurante/plato[@tipo='postre'][1]
