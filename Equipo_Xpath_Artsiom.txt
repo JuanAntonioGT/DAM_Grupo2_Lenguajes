@@ -1,0 +1,18 @@
+/Equipos/Equipo[ Nombre_Equipo="Los DO"]
+
+//jugador[@category="principal"]
+
+//jugador[sueldo_Jugador>1500]
+
+//equipo[Posicion=1]
+
+//Nombre_Equipo | //Posicion
+
+Buscamos a los jugadores con edad 26 años
+//Lista_Jugadores/jugador[Edad_Jugador=26]
+
+Buscamos a los jugadores sumplente de 26 años
+//jugador[@category="suplente"][Edad_Jugador=26]
+
+Buscamos a los jugadores suplentes de equipos con posicion 6 en el ranking
+//Equipo[Posicion=6]//jugador[@category="suplente"]
