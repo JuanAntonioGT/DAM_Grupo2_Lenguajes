@@ -8,6 +8,8 @@ https://docs.google.com/presentation/d/1aohL_Z0s0i_rb_kKw_J5u8PbPqfBoWLgiwqVTvE4
 
 Cuenta para el feed grupo2delenguajesdam@gmail.com contraseña = toorDam2
 
+La web del rss feed de ejemplo: https://www.motorpoint.com/rss/ultimasNoticias/
+
 enlace de nuestra web publica xml con rss: https://3q8l8.csb.app/index.html
 
 enlace de nuestra web en formato rss https://3q8l8.csb.app/xml/rss.xml
