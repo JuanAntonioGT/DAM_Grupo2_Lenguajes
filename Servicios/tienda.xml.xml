@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TiendaDeRopa>
+
+<Ropa category="Camiseta">
+<Marca lang="en">SARA</Marca>
+    <color>blanco</color>
+    <Talla>L</Talla>
+    <precio>30€</precio>
+  </Ropa>
+
+  <Ropa category="Camiseta">
+<Marca lang="en">SARA</Marca>
+    <color>Negro</color>
+    <Talla>L</Talla>
+    <precio>15€</precio>
+  </Ropa>
+
+ <Ropa category="Pantalones">
+  <Marca lang="en">Pushbeard</Marca>;
+    <color>Azul</color>
+    <Talla>XLLL</Talla>
+    <precio>90€</precio>
+  </Ropa>
+
+  <Ropa category="Pantalones">
+  <Marca lang="en">Pushbeard</Marca>
+    <color>Marron</color>
+    <Talla>M</Talla>
+    <precio>40€</precio>
+  </Ropa>
+
+  <Ropa category="Blusa">
+  <Marca lang="en">SlowGold</Marca>
+    <color>Rosa</color>
+    <Talla>XL</Talla>
+    <precio>45€</precio>
+  </Ropa>
+
+  <Ropa category="blusa">
+  <Marca lang="en">SlowGold</Marca>
+    <color>Amarillo</color>
+    <Talla>M</Talla>
+    <precio>20€</precio>
+  </Ropa>
+
+<Ropa category="Zapatillas">
+  <Marca lang="en">Pera</Marca>
+    <color>Rojo</color>
+    <Talla>45</Talla>
+    <precio>90€</precio>
+  </Ropa>
+
+  <Ropa category="Zapatillas">
+  <Marca lang="en">Pera</Marca>
+    <color>Marron</color>
+    <Talla>38</Talla>
+    <precio>40€</precio>
+  </Ropa>
+
+<Ropa category="Gorra">
+  <Marca lang="en">BA</Marca>
+    <color>Gris</color>
+    <Talla>M</Talla>
+    <precio>20€</precio>
+  </Ropa>
+
+  <Ropa category="Gorra">
+  <Marca lang="en">BA</Marca>
+    <color>Negra</color>
+    <Talla>S</Talla>
+    <precio>60€</precio>
+  </Ropa>
+  </TiendaDeRopa>
